@@ -6,4 +6,4 @@ In *RQ3* we are evaluating how many faults can reveal the scenario we generate f
 Instrucrtions to run the experiments are provided in the corresponding folders.
 Scenario for the vehicle system| Execution of the scenario in the simulator | 
 :-------------------------:|:-------------------------:|
-<img src= "./img/road.png" width="200" height="300">  | <img src= "./img/vehicle24.png" width="250" height="250"> | 
+<img src= "./img/road.jpg" width="200" height="300">  | <img src= "./img/vehicle24.PNG" width="250" height="250"> | 
