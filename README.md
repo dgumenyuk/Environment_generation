@@ -10,4 +10,4 @@ Scenario for the vehicle system (a road configuration)| Execution of the scenari
 
 Scenario for the autonomous robot (a map with obstacles)| Execution of the scenario in the Player/Stage simulator | 
 :-------------------------:|:-------------------------:|
-<img src= "./img/tc_0.jpg" width="600" height="400">  | <img src= "./img/robo.PNG" width="600" height="300"> | 
+<img src= "./img/tc_0.png" width="500" height="300">  | <img src= "./img/robo.PNG" width="500" height="200"> | 
