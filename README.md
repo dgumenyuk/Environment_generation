@@ -6,8 +6,8 @@ In *RQ3* we are evaluating how many faults can reveal the scenario we generate f
 Instrucrtions to run the experiments are provided in the corresponding folders.
 Scenario for the vehicle system (a road configuration)| Execution of the scenario in the BeamNg simulator | 
 :-------------------------:|:-------------------------:|
-<img src= "./img/road.jpg" width="350" height="300"  | <img src= "./img/vehicle24.PNG" width="400" height="200"| 
+<img src= "./img/road.jpg" width="350" height="300"> | <img src= "./img/vehicle24.PNG" width="400" height="200">| 
 
 Scenario for the autonomous robot (a map with obstacles)| Execution of the scenario in the Player/Stage simulator | 
 :-------------------------:|:-------------------------:|
-<img src= "./img/tc_0.png" width="300" height="300"| <img src= "./img/robo.PNG" width="300" height="200"| 
+<img src= "./img/tc_0.png" width="300" height="300">| <img src= "./img/robo.PNG" width="300" height="200">| 
