@@ -1,0 +1,48 @@
+include "/home/dmhum/stage/worlds/pioneer.inc"
+include "/home/dmhum/stage/worlds/map.inc"
+include "/home/dmhum/stage/worlds/sick.inc"
+
+speedup -4
+threads 4
+quit_time 12000
+resolution 0.02
+
+window
+(
+  size [ 600.000 600.000 ]
+  scale 35 # pixels per meter
+  center [ 0 0 ]
+  rotate [ 0 0 ]
+
+
+  show_data 1
+
+
+  show_grid 1
+
+
+)
+
+floorplan
+(
+  name "PCG Scenario"
+  size [51.0 51.0 0.800]
+  pose [0 0 0 0]
+  bitmap "/home/dmhum/Player_pipeline_/./results/run1/run/map4.png"
+)
+
+pioneer2dx
+(
+  name "Autonomous1"
+  pose [ 24 24 0 90 ]
+
+  sicklaser
+  (
+    pose [0 0 0 0]
+  )
+
+  localization "gps"
+  localization_origin [ 0 0 0 0 ]
+)
+
+

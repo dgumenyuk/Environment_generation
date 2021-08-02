@@ -1,0 +1,37 @@
+2021-08-02T12:12:48Z: Parsing definitions from 'events.json'...
+2021-08-02T12:12:48Z: Connecting to Player server at 'localhost:6665'...
+2021-08-02T12:12:48Z: Instantiating event monitors...
+2021-08-02T12:12:48Z:   Loiter...
+2021-08-02T12:12:48Z:   Stall...
+2021-08-02T12:12:48Z:   Unsafe Proximity...
+2021-08-02T12:12:48Z:   Waypoint Arrival...
+2021-08-02T12:12:48Z: Creating client proxies...
+2021-08-02T12:12:48Z:   Autonomous1 = position2d:1
+2021-08-02T12:12:48Z: Starting client read loop...
+2021-08-02T12:12:48Z: [EVENT] 'Autonomous1' starting route of 27 waypoint(s)
+2021-08-02T12:12:54Z: [EVENT] 'Autonomous1' reached waypoint 1 (x: 23.000000, y: 23.000000) of 27 (3%) at 68.700000s
+2021-08-02T12:12:55Z: [EVENT] 'Autonomous1' reached waypoint 2 (x: 23.000000, y: 21.000000) of 27 (7%) at 75.600000s
+2021-08-02T12:12:57Z: [EVENT] 'Autonomous1' reached waypoint 3 (x: 21.000000, y: 19.000000) of 27 (11%) at 86.400000s
+2021-08-02T12:12:58Z: [EVENT] 'Autonomous1' reached waypoint 4 (x: 21.000000, y: 17.000000) of 27 (14%) at 94.400000s
+2021-08-02T12:12:59Z: [EVENT] 'Autonomous1' reached waypoint 5 (x: 19.000000, y: 15.000000) of 27 (18%) at 105.200000s
+2021-08-02T12:13:02Z: [EVENT] 'Autonomous1' reached waypoint 6 (x: 23.000000, y: 11.000000) of 27 (22%) at 127.200000s
+2021-08-02T12:13:08Z: [EVENT] 'Autonomous1' reached waypoint 7 (x: 15.000000, y: 3.000000) of 27 (25%) at 168.300000s
+2021-08-02T12:13:10Z: [EVENT] 'Autonomous1' reached waypoint 8 (x: 15.000000, y: 1.000000) of 27 (29%) at 178.300000s
+2021-08-02T12:13:11Z: [EVENT] 'Autonomous1' reached waypoint 9 (x: 13.000000, y: -1.000000) of 27 (33%) at 188.300000s
+2021-08-02T12:13:14Z: [EVENT] 'Autonomous1' reached waypoint 10 (x: 13.000000, y: -7.000000) of 27 (37%) at 209.000000s
+2021-08-02T12:13:21Z: [EVENT] 'Autonomous1' reached waypoint 11 (x: 23.000000, y: -17.000000) of 27 (40%) at 259.000000s
+2021-08-02T12:13:22Z: [EVENT] 'Autonomous1' reached waypoint 12 (x: 23.000000, y: -19.000000) of 27 (44%) at 266.000000s
+2021-08-02T12:13:25Z: [EVENT] 'Autonomous1' reached waypoint 13 (x: 19.000000, y: -23.000000) of 27 (48%) at 285.600000s
+2021-08-02T12:13:26Z: [EVENT] 'Autonomous1' reached waypoint 14 (x: 15.000000, y: -23.000000) of 27 (51%) at 299.600000s
+2021-08-02T12:13:28Z: [EVENT] 'Autonomous1' reached waypoint 15 (x: 13.000000, y: -21.000000) of 27 (55%) at 309.500000s
+2021-08-02T12:13:31Z: [EVENT] 'Autonomous1' reached waypoint 16 (x: 7.000000, y: -21.000000) of 27 (59%) at 330.600000s
+2021-08-02T12:13:34Z: [EVENT] 'Autonomous1' reached waypoint 17 (x: 1.000000, y: -15.000000) of 27 (62%) at 360.000000s
+2021-08-02T12:13:35Z: [EVENT] 'Autonomous1' reached waypoint 18 (x: 3.000000, y: -13.000000) of 27 (66%) at 371.100000s
+2021-08-02T12:13:39Z: [EVENT] 'Autonomous1' reached waypoint 19 (x: 3.000000, y: -3.000000) of 27 (70%) at 406.500000s
+2021-08-02T12:13:42Z: [EVENT] 'Autonomous1' reached waypoint 20 (x: -1.000000, y: 1.000000) of 27 (74%) at 426.000000s
+2021-08-02T12:13:44Z: [EVENT] 'Autonomous1' reached waypoint 21 (x: -7.000000, y: 1.000000) of 27 (77%) at 447.300000s
+2021-08-02T12:13:45Z: [EVENT] 'Autonomous1' reached waypoint 22 (x: -9.000000, y: 3.000000) of 27 (81%) at 457.800000s
+2021-08-02T12:13:46Z: [EVENT] 'Autonomous1' reached waypoint 23 (x: -11.000000, y: 3.000000) of 27 (85%) at 466.500000s
+2021-08-02T12:13:47Z: [EVENT] 'Autonomous1' reached waypoint 24 (x: -13.000000, y: 1.000000) of 27 (88%) at 476.800000s
+2021-08-02T12:13:52Z: [EVENT] 'Autonomous1' reached waypoint 25 (x: -13.000000, y: -11.000000) of 27 (92%) at 519.100000s
+2021-08-02T12:14:04Z: [EVENT] 'Autonomous1' stalled at (x: -13.089905, y: -11.082862, yaw: -2.310773) at 624.200000s
