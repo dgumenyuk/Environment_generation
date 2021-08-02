@@ -1,0 +1,6 @@
+Jinja2==2.6
+MarkupSafe==0.15
+
+noise==1.0b3
+
+scipy==0.10.1
