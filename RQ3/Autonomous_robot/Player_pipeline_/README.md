@@ -39,7 +39,9 @@ Usage
 Some scripts contain path to certain files, and it should be modified to suit your systems before usage. You should change the paths in the following files:
 ```player.cfg```, ```stage.world```.
 
-All the scenarios should be placed in the "Results" folder, as shown in the examples.
+All the scenarios should be placed in the ```results``` folder, as shown in the examples.
 To execute the scenarios, you should launch the "run.py" script:
 ```python run.py```
-The execution results will be saved to the "fails.json" in "Results" folder.
+The execution results will be saved to the ```fails.json``` in ```results``` folder.
+Currently the folder contains example of the scenarios generated from one run of AmbieGen MO.
+
